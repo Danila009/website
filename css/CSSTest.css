@@ -1,0 +1,29 @@
+html {
+  background-color: #00539F;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #683D00;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+p{
+	font-size: 100px;
+	text-align: center;
+}
+
+h4{
+	color: white;
+}
+
+table {
+	margin: 0 auto;
+	width: 500px;
+	height: 500px
+}
+
+td{
+	font-size: 100px;
+	text-align: center;
+}
